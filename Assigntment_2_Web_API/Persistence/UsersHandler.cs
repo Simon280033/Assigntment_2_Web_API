@@ -25,7 +25,7 @@ namespace FileData
             }
         }
 
-        private void SaveChanges()
+        public void SaveChanges()
         {
             // storing persons
             string jsonUsers = JsonSerializer.Serialize(Users, new JsonSerializerOptions
