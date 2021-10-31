@@ -253,5 +253,35 @@
     "Weight": 87,
     "Height": 189,
     "Sex": "M"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Unemployed",
+      "Salary": 0
+    },
+    "Id": 17,
+    "FirstName": "Brian",
+    "LastName": "Wilson",
+    "HairColor": "Brown",
+    "EyeColor": "Brown",
+    "Age": 52,
+    "Weight": 102,
+    "Height": 181,
+    "Sex": "M"
+  },
+  {
+    "JobTitle": {
+      "JobTitle": "Dancer",
+      "Salary": 21000
+    },
+    "Id": 18,
+    "FirstName": "Joe",
+    "LastName": "Bob",
+    "HairColor": "Red",
+    "EyeColor": "Green",
+    "Age": 28,
+    "Weight": 62,
+    "Height": 173,
+    "Sex": "M"
   }
 ]
