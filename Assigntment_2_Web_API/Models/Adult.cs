@@ -1,5 +1,10 @@
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Models {
 public class Adult : Person {
-    public Job JobTitle { get; set; }
+    [Key]
+    public Job Job { get; set; }
 }
 }

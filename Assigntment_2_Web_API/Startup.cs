@@ -27,8 +27,8 @@ namespace Assigntment_2_Web_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddScoped<IAdultsService, AdultsService>();
-            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IAdultsService, DbAdultsService>();
+            services.AddScoped<IUserService, DbUserService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo {Title = "Assigntment_2_Web_API", Version = "v1"});

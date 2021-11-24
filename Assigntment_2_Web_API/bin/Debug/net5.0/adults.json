@@ -1,6 +1,6 @@
 [
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Mascot",
       "Salary": 99821
     },
@@ -15,7 +15,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Front End Web Developer",
       "Salary": 66408
     },
@@ -30,7 +30,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Business Development Manager",
       "Salary": 71456
     },
@@ -45,7 +45,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Skin Care Specialist",
       "Salary": 20545
     },
@@ -60,7 +60,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Vice Principal",
       "Salary": 72901
     },
@@ -75,7 +75,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Teacher",
       "Salary": 91588
     },
@@ -90,7 +90,7 @@
     "Sex": "M"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Service Advisor",
       "Salary": 72532
     },
@@ -105,7 +105,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Janitor",
       "Salary": 61437
     },
@@ -120,7 +120,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Office Clerk",
       "Salary": 41332
     },
@@ -135,7 +135,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Writer",
       "Salary": 63392
     },
@@ -150,7 +150,7 @@
     "Sex": "F"
   },
   {
-    "JobTitle": {
+    "Job": {
       "JobTitle": "Casino Host",
       "Salary": 35445
     },
@@ -162,126 +162,6 @@
     "Age": 39,
     "Weight": 126.2,
     "Height": 179,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Nurse",
-      "Salary": 36813
-    },
-    "Id": 11,
-    "FirstName": "Zahra",
-    "LastName": "Salt",
-    "HairColor": "Brown",
-    "EyeColor": "Grey",
-    "Age": 32,
-    "Weight": 124.2,
-    "Height": 174,
-    "Sex": "F"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Web Administrator",
-      "Salary": 44759
-    },
-    "Id": 12,
-    "FirstName": "Zavier",
-    "LastName": "Huffman",
-    "HairColor": "Black",
-    "EyeColor": "Brown",
-    "Age": 59,
-    "Weight": 54.4,
-    "Height": 166,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Science Teacher",
-      "Salary": 55346
-    },
-    "Id": 13,
-    "FirstName": "Arley",
-    "LastName": "Vaughn",
-    "HairColor": "Black",
-    "EyeColor": "Brown",
-    "Age": 33,
-    "Weight": 55.4,
-    "Height": 171,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Call Center Agent",
-      "Salary": 20308
-    },
-    "Id": 14,
-    "FirstName": "Isiah",
-    "LastName": "Esparza",
-    "HairColor": "Brown",
-    "EyeColor": "Brown",
-    "Age": 44,
-    "Weight": 81.8,
-    "Height": 172,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Fisker",
-      "Salary": 56000
-    },
-    "Id": 15,
-    "FirstName": "Bobby",
-    "LastName": "Jensen",
-    "HairColor": "Gray",
-    "EyeColor": "Gray",
-    "Age": 56,
-    "Weight": 93,
-    "Height": 181,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Arbejdsl\u00F8s",
-      "Salary": 0
-    },
-    "Id": 16,
-    "FirstName": "Hans",
-    "LastName": "Frank",
-    "HairColor": "White",
-    "EyeColor": "Black",
-    "Age": 41,
-    "Weight": 87,
-    "Height": 189,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Unemployed",
-      "Salary": 0
-    },
-    "Id": 17,
-    "FirstName": "Brian",
-    "LastName": "Wilson",
-    "HairColor": "Brown",
-    "EyeColor": "Brown",
-    "Age": 52,
-    "Weight": 102,
-    "Height": 181,
-    "Sex": "M"
-  },
-  {
-    "JobTitle": {
-      "JobTitle": "Dancer",
-      "Salary": 21000
-    },
-    "Id": 18,
-    "FirstName": "Joe",
-    "LastName": "Bob",
-    "HairColor": "Red",
-    "EyeColor": "Green",
-    "Age": 28,
-    "Weight": 62,
-    "Height": 173,
     "Sex": "M"
   }
 ]

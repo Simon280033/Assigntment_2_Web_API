@@ -5,7 +5,9 @@ namespace Models
 {
     public class Job
     {
+        [Key, MaxLength(256)]
         public string JobTitle { get; set; }
+        [Required]
         public int Salary { get; set; }
     }
 }
